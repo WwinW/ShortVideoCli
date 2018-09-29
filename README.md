@@ -1,4 +1,12 @@
-# Shade :sunglasses:
+
+
+
+
+
+
+# THANKS Shade 
+
+I am studing react-native and node.js，Thank you Shde. Please Focus on SHADE.
 
 ## A social video platform for iOS built with React Native
 
@@ -16,4 +24,4 @@ https://www.youtube.com/watch?v=sRKQTn9YZPI
 - npm install
 - react native link
 - react-native run-ios
-- 👍
+
