@@ -22,6 +22,6 @@ https://www.youtube.com/watch?v=sRKQTn9YZPI
 
 - git clone repo & cd into it
 - npm install
-- react native link
+- react-native link
 - react-native run-ios
 
